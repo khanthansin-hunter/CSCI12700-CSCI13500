@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38f70316-27ff-46dd-90d8-db56b48b20ad" name="Changes" comment="everything covered in lab 1">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csci127.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;khanthansin-hunter&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/khanthansin-hunter/cs127-f24&quot;,
+    &quot;accountId&quot;: &quot;e940fc75-0554-454a-9b8a-939bf23e3e21&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DNA.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lrxnPrQ3lA7uf8u7Hldjs29nh0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ASCII.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DNA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NAND_gate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binary_arithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caesar_cipher(testing).executor&quot;: &quot;Run&quot;,
+    &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cornflowerblue_pentagon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hexturtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_blues.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab1_revision.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab2test.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lab3test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab4test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab6(testing).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lec_slip1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.majority_circuit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.octagon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printing_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prints_twice_in_reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz4test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shades_of_blue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snow_count(testing).executor&quot;: &quot;Run&quot;,
+    &quot;Python.snow_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tilted_square.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turning_turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtleString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle_control.executor&quot;: &quot;Run&quot;,
+    &quot;Python.uppercase_and_lowercase.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.weekend_time.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leo/Desktop/Hunter/csci127&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38f70316-27ff-46dd-90d8-db56b48b20ad" name="Changes" comment="" />
+      <created>1725952163160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725952163160</updated>
+      <workItem from="1725952164179" duration="996000" />
+      <workItem from="1725978135159" duration="1839000" />
+      <workItem from="1726164368131" duration="555000" />
+      <workItem from="1726210111574" duration="861000" />
+      <workItem from="1726211170249" duration="23000" />
+      <workItem from="1726722563336" duration="1563000" />
+      <workItem from="1726765063847" duration="5957000" />
+      <workItem from="1727069836930" duration="1921000" />
+      <workItem from="1727276034733" duration="1102000" />
+      <workItem from="1727277197163" duration="1959000" />
+      <workItem from="1727303661094" duration="1557000" />
+      <workItem from="1727451596159" duration="12546000" />
+      <workItem from="1727718210303" duration="1021000" />
+      <workItem from="1727819088214" duration="1190000" />
+      <workItem from="1727821375132" duration="1404000" />
+      <workItem from="1728409962293" duration="8306000" />
+      <workItem from="1728763167364" duration="4656000" />
+      <workItem from="1728810569494" duration="333000" />
+      <workItem from="1728943761115" duration="20784000" />
+      <workItem from="1729807811999" duration="3397000" />
+      <workItem from="1729966256381" duration="2954000" />
+      <workItem from="1730149000097" duration="6479000" />
+      <workItem from="1730179448772" duration="115000" />
+      <workItem from="1730228613622" duration="3553000" />
+      <workItem from="1730596739546" duration="3848000" />
+      <workItem from="1730750205175" duration="5202000" />
+      <workItem from="1730957917808" duration="2240000" />
+      <workItem from="1731021422176" duration="6207000" />
+      <workItem from="1731054173144" duration="6036000" />
+      <workItem from="1731367225292" duration="583000" />
+    </task>
+    <task id="LOCAL-00001" summary="everything covered in lab 1">
+      <option name="closed" value="true" />
+      <created>1731145692465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731145692465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="everything covered in lab 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="everything covered in lab 1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/csci127$lab6_testing_.coverage" NAME="lab6(testing) Coverage Results" MODIFIED="1730755229441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$star.coverage" NAME="star Coverage Results" MODIFIED="1725952328495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$NAND_gate.coverage" NAME="NAND_gate Coverage Results" MODIFIED="1730149542603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$lec_slip1.coverage" NAME="lec_slip1 Coverage Results" MODIFIED="1725978157693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$shades_of_blue.coverage" NAME="shades_of_blue Coverage Results" MODIFIED="1727279149367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$ASCII.coverage" NAME="ASCII Coverage Results" MODIFIED="1726789455044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$lab2test.coverage" NAME="lab2test Coverage Results" MODIFIED="1726789429171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$caesar_cipher.coverage" NAME="caesar_cipher Coverage Results" MODIFIED="1728770207181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$weekend_time.coverage" NAME="weekend_time Coverage Results" MODIFIED="1729276766979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$hexturtle.coverage" NAME="hexturtle Coverage Results" MODIFIED="1729621451472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$image_blues.coverage" NAME="image_blues Coverage Results" MODIFIED="1731025712245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$lab4test.coverage" NAME="lab4test Coverage Results" MODIFIED="1728413377307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$lab3test.coverage" NAME="lab3test Coverage Results" MODIFIED="1731022626576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$snow_count_testing_.coverage" NAME="snow_count(testing) Coverage Results" MODIFIED="1730232801315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$cornflowerblue_pentagon.coverage" NAME="cornflowerblue_pentagon Coverage Results" MODIFIED="1729622172911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$tilted_square.coverage" NAME="tilted_square Coverage Results" MODIFIED="1729621564246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$caesar_cipher_testing_.coverage" NAME="caesar_cipher(testing) Coverage Results" MODIFIED="1729623434596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$quiz4test.coverage" NAME="quiz4test Coverage Results" MODIFIED="1728436477541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$octagon.coverage" NAME="octagon Coverage Results" MODIFIED="1726210962814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$uppercase_and_lowercase.coverage" NAME="uppercase_and_lowercase Coverage Results" MODIFIED="1726727214091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$turning_turtle.coverage" NAME="turning_turtle Coverage Results" MODIFIED="1729622378733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$binary_arithmetic.coverage" NAME="binary_arithmetic Coverage Results" MODIFIED="1730596928848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$majority_circuit.coverage" NAME="majority_circuit Coverage Results" MODIFIED="1730596967915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$printing_numbers.coverage" NAME="printing_numbers Coverage Results" MODIFIED="1725952552429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$turtle_control.coverage" NAME="turtle_control Coverage Results" MODIFIED="1730160032308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$DNA.coverage" NAME="DNA Coverage Results" MODIFIED="1729634099671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$snow_count.coverage" NAME="snow_count Coverage Results" MODIFIED="1730231674132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$prints_twice_in_reverse.coverage" NAME="prints_twice_in_reverse Coverage Results" MODIFIED="1727819201587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/csci127$turtleString.coverage" NAME="turtleString Coverage Results" MODIFIED="1730158507619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/csci127$lab1_revision.coverage" NAME="lab1_revision Coverage Results" MODIFIED="1731145629608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
