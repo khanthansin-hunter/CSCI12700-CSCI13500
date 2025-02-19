@@ -1,0 +1,9 @@
+Name:  Khant Than Sin
+Email: khantthan.sin06@myhunter.cuny.edu
+Date:  December 18, 2024
+
+mkdir projectFiles
+
+cd projectFiles
+
+mkdir source data results

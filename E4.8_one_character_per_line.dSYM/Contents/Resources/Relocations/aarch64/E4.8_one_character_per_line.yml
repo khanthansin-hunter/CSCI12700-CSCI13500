@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/leo/Desktop/Hunter/csci127/E4.8_one_character_per_line'
+relocations:     []
+...
