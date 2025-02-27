@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/leo/Desktop/CSCI12700-CSCI13500/lab3practice'
+relocations:     []
+...

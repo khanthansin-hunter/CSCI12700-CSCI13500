@@ -21,7 +21,7 @@ int main()
 
     //skipping header
 
-    const int SIZE = 365;
+    const int SIZE = 1000;
     string date[SIZE], first_user_date, second_user_date;
     double eastSt[SIZE], eastEl[SIZE], westSt[SIZE], westEl[SIZE];
     int read_data;
@@ -44,7 +44,7 @@ int main()
 
     //reading file into array
 
-    for (int i = SIZE - 1; i >= 0; i--)
+    for (int i = SIZE; i >= 0; i--)
     {
         if (date[i] >= first_user_date && date[i] <= second_user_date)
         {
